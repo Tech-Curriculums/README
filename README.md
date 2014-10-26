@@ -16,4 +16,3 @@ This is particular section
 
 The following command looks for "somefile.ino"
 `find ~/ -iname somefile.ino`
-
